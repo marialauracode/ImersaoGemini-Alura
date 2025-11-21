@@ -1,17 +1,56 @@
 [
     {
-        "nome":"Javascript",
-        "ano":1995,
-        "descricao":"Linguagem de programação utilizada principalmente para desenvolvimento web.",
-        "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+        "nome": "Javascript",
+        "ano": 1995,
+        "descricao": "Linguagem de programação utilizada principalmente para desenvolvimento web.",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
     },
-
-
     {
-
-    "nome":"Python",
-    "ano":1991, 
-    "descricao":"Linguagem de programação de alto nível, conhecida por sua legibilidade e simplicidade.",
-    "link":"https://docs.python.org/3/"
+        "nome": "Python",
+        "ano": 1991,
+        "descricao": "Linguagem de programação de alto nível, conhecida por sua legibilidade e simplicidade.",
+        "link": "https://docs.python.org/3/"
+    },
+    {
+        "nome": "Java",
+        "ano": 1995,
+        "descricao": "Linguagem orientada a objetos amplamente utilizada no desenvolvimento de aplicações corporativas.",
+        "link": "https://docs.oracle.com/en/java/"
+    },
+    {
+        "nome": "C",
+        "ano": 1972,
+        "descricao": "Linguagem de programação estruturada, base para diversas outras linguagens modernas.",
+        "link": "https://en.cppreference.com/w/c"
+    },
+    {
+        "nome": "C++",
+        "ano": 1985,
+        "descricao": "Linguagem de programação que expande o C com recursos de orientação a objetos.",
+        "link": "https://en.cppreference.com/w/"
+    },
+    {
+        "nome": "PHP",
+        "ano": 1995,
+        "descricao": "Linguagem muito utilizada no desenvolvimento de aplicações web dinâmicas.",
+        "link": "https://www.php.net/manual/pt_BR/"
+    },
+    {
+        "nome": "Ruby",
+        "ano": 1995,
+        "descricao": "Linguagem dinâmica e flexível, conhecida pelo framework Ruby on Rails.",
+        "link": "https://www.ruby-lang.org/pt/documentation/"
+    },
+    {
+        "nome": "Go",
+        "ano": 2009,
+        "descricao": "Linguagem criada pelo Google, conhecida por sua eficiência e concorrência simples.",
+        "link": "https://go.dev/doc/"
+    },
+    {
+        "nome": "Rust",
+        "ano": 2010,
+        "descricao": "Linguagem focada em segurança e desempenho, muito utilizada em sistemas críticos.",
+        "link": "https://www.rust-lang.org/learn"
     }
 ]
