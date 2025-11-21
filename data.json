@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"Javascript",
+        "ano":1995,
+        "descricao":"Linguagem de programação utilizada principalmente para desenvolvimento web.",
+        "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+
+
+    {
+
+    "nome":"Python",
+    "ano":1991, 
+    "descricao":"Linguagem de programação de alto nível, conhecida por sua legibilidade e simplicidade.",
+    "link":"https://docs.python.org/3/"
+    }
+]
