@@ -20,4 +20,3 @@
 - Permite realizar buscas na aba de pesquisa, para encontrar determinado livro
 - É responsivo, funcionando em diferentes tamanhos de telas
 - Possui os títulos dos livros com uma breve descrição, juntamente com o nome do autor
-- 
