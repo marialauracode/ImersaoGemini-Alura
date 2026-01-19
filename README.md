@@ -13,7 +13,7 @@
 - HTML
 - CSS
 - Javascript
-- Json
+- JSON
 - Google Gemini
 
 ## 📦 Funcionalidades
