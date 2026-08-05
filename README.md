@@ -1,5 +1,7 @@
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/bc6aa6fd-5cb9-44f9-9eb5-753c24f0e3f3" />
 
+## 🌐 Visualize o projeto:
+[Ver Projeto Online](https:...)
 
 ## 📂 Sobre o Projeto
 
