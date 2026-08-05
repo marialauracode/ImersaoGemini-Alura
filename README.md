@@ -7,11 +7,11 @@
 Este projeto foi desenvolvido durante a Imersão Dev da Alura com Google Gemini. Consiste em uma interface para uma livraria fictícia, criada com o objetivo de praticar conceitos de HTML5, CSS3, JavaScript e JSON, além de explorar o uso do Google Gemini como apoio no desenvolvimento de código.
 
 ## 🛠 Tecnologias Utilizadas
-<b>HTML5:</b> Marcação semântica
-<b>CSS3:</b> Estilização e responsividade
-<b>JavaScript:</b> Funcionalidade interativa
-<b>JSON:</b> Armazenamento e organização de dados
-<b>Google Gemini:</b> Apoio no desenvolvimento e geração de código
+- <b>HTML5:</b> Marcação semântica
+- <b>CSS3:</b> Estilização e responsividade
+- <b>JavaScript:</b> Funcionalidade interativa
+- <b>JSON:</b> Armazenamento e organização de dados
+- <b>Google Gemini:</b> Apoio no desenvolvimento e geração de código
 
 ## 📦 Funcionalidades
 - Permite realizar buscas na aba de pesquisa, para encontrar determinado livro;
