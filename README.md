@@ -18,3 +18,5 @@ Este projeto foi desenvolvido durante a Imersão Dev da Alura com Google Gemini.
 - É responsivo, funcionando em diferentes tamanhos de telas;
 - Possui os títulos dos livros com uma breve descrição, juntamente com o nome do autor;
 - Para cada obra, tem a seção de "Saiba mais", onde direciona a pessoa para o produto disponível na loja da Amazon;
+
+## 👩🏻‍💻 Feito por Maria Laura Costa.
